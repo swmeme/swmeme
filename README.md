@@ -10,7 +10,14 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 ###  🔭 I’m currently working on:
 (most of the time) I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling). My main interests in programming are Algorithms and Data Science, so currently I'm studying "The Complete Data Science & Machine Learning Bootcamp" from AppBrewery and other courses on freecodecamp and codecademy
 
-![Snake animation](https://github.com/swmeme/blob/output/github-contribution-grid-snake.svg)
+
+
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/swmeme/swmeme/main.yml?label=action&style=flat-square)](https://github.com/swmeme/swmeme/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/swmeme/snk.svg?style=flat-square)](https://github.com/swmeme/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
 
 
 ##  🌱 What I’m currently studying and the Tech I use: 
