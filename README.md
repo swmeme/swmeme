@@ -10,7 +10,7 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 ###  🔭 I’m currently working on:
 (most of the time) I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling). My main interests in programming are Algorithms and Data Science, so currently I'm studying "The Complete Data Science & Machine Learning Bootcamp" from AppBrewery and other courses on freecodecamp and codecademy
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" >
 
 
 
@@ -29,15 +29,14 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 </div> 
 <p align="center">
 
- #   
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" >
 
 
 <h2 align="center">
 <a href="https://github.com/swmeme/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Walter's github stats" /></a> | <a href="https://github.com/swmeme/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&theme=github_dark&hide_border=true" /></a> 
 <p align="center">
 
-
-##   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" >
  
 ### ⚡ Fun fact: <small> I am a huge star wars fan and I like to follow F1 #GOFERRARI!!!, and when I'm not working, or studying, or with my fiancée I'm probably taking care of the garden or playing some video-game 🎮🕹️</small>
 
