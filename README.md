@@ -3,7 +3,7 @@
 
 # 
           
-### I'm Brazilian (Fortaleza - CE) and a self-taught programmer.
+### I'm Brazilian from Fortaleza - CE and a self-taught programmer. <br> <br> 
 My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one in the old Nokia phones), after several attempts I gave up 😓😩🥵. 
 
 
