@@ -1,4 +1,4 @@
-<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. <br> My name is [Walter Piragine](https://www.linkedin.com/in/walterpiragine/) </h2> 
+<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. <br> My name is Walter Piragine </h2> 
 <p align="center">
           
 ##  
