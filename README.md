@@ -12,21 +12,6 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/swmeme/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/swmeme/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/swmeme/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 
 
 ##  🌱 What I’m currently studying and the Tech I use: 
