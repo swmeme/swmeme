@@ -24,7 +24,9 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 <a href="https://www.linkedin.com/in/walterpiragine/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
 <p align="center">
-#  
+
+ #   
+
 <h2 align="center">
 <div>
 <a href="https://github.com/swmeme">
