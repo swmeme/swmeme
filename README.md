@@ -1,6 +1,6 @@
 # 🖖 Hello there, Welcome to my Github profile.
 
-##              My name is Walter!
+##              My name is Walter! <br> I'm a self-taught
 
 
 ### - 🔭 I’m currently working on: Mounting and selling hardware, mostly in tenders for local government (councils selling). But most of the time I'm in the pc studying.
