@@ -1,11 +1,11 @@
 # 🖖 Hello there, Welcome to my Github profile.
 
-##              My name is Walter! <br> <small>I'm a self-taught.</small>
+##              My name is Walter! <br> 
+####I'm a self-taught.
 
 
 
-
-### - 🔭 I’m currently working on: Mounting and selling hardware, mostly in tenders for local government (councils selling). But most of the time I'm in the PC studying.
+### - 🔭 I’m currently working on: Mounting and selling hardware, mostly in tenders for local government (councils selling). But most of the time I'm in front of the PC studying.
 
 ### - 🌱 I’m currently studying:
 <img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/8616/8616578.png" alt="My Skills" width="50" height="50"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-data-science-46-1170621.png" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/128/4025/4025644.png" alt="My Skills" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=py,django,git,html&theme=dark)](https://skillicons.dev) 
