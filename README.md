@@ -24,9 +24,10 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 <a href="https://www.linkedin.com/in/walterpiragine/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
 <p align="center">
- 
-### 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+
+### ⚡ Fun fact: I am a huge star wars fan and I like to follow F1 #GOFERRARI#, and when I'm not working, or studying, or with my fiancée I'm probably taking care of the garden or playing some video-game 🎮🕹️
+#### 😄 Pronouns: He/him
+
 
 
 
