@@ -60,7 +60,7 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 <img src="https://media.tenor.com/gWY3kXb_Vn0AAAAd/darth-vader-vader.gif" alt="vader" width="100" height="100"> <img src="https://media.tenor.com/2CCxoJnxsckAAAAC/car-speed.gif" alt="Formulaone" width="100" height="100"> <img src="https://media.tenor.com/YxQ7dqEdZjIAAAAd/ferrari-sf23.gif" alt="Formulaone" width="100" height="100"> <img src="https://media.tenor.com/0SUomFMYna8AAAAd/darth-vader-vader.gif" alt="vader" width="100" height="100"> 
 <p align="center">
 
-#### 😄 Pronouns: He/him
+#### 😄 Pronouns: He/his
 
 
 
