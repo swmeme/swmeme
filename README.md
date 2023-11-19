@@ -1,15 +1,14 @@
-<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. <br>  My name is [Walter Piragine](https://www.linkedin.com/in/walterpiragine/)!    </h2>
+<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. <br>  My name is </h2> [Walter Piragine](https://www.linkedin.com/in/walterpiragine/)!
 <p align="center">
 
 ### I'm Brazilian (Fortaleza - CE) and a self-taught programmer.
-My journey with programming began in the middle 2020's, i wanted to make a snake game (yes that one in the old Nokia phones)
-
+My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one in the old Nokia phones), after several attempts I gave up 😓😩🥵.
 
 
 ### - 🔭 I’m currently working on: Mounting and selling hardware, mostly in tenders for local government (councils selling). But most of the time I'm in front of the PC studying.
 
 ## - 🌱 I’m currently studying:
-<img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/8616/8616578.png" alt="My Skills" width="50" height="50"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-data-science-46-1170621.png" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/128/4025/4025644.png" alt="My Skills" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=py,django,git,html&theme=dark)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50">/>
+<img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/8616/8616578.png" alt="My Skills" width="50" height="50"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-data-science-46-1170621.png" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/128/4025/4025644.png" alt="My Skills" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=py,django,git,html&theme=dark)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50">
           
 
 ## - 🚀 I’m looking to learn in the future: 
