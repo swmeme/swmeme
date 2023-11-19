@@ -4,7 +4,7 @@
 # 
           
 ### I'm Brazilian from Fortaleza - CE and a self-taught programmer. <br> <br> 
-My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one, in the old Nokia phones), after several attempts I gave up 😓😩🥵. Then I remembered Master Yoda's  quote: "Do or do not, there is no try." <br> I wanted to do it. So I sat down in front of the computer again and since then I have fallen more and more in love with logic, syntax, daata structures, algorithms, and this whole universe that is programming.
+My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one, in the old Nokia phones), after several attempts I gave up 😓😩🥵.<br> Then I remembered Master Yoda's  quote: "Do or do not, there is no try." <br> I wanted to do it. So I sat down in front of the computer again and since then I have fallen more and more in love with logic, syntax, daata structures, algorithms, and this whole universe that is programming.
 
 ### - 🔭 I’m currently working on: Mounting and selling hardware, mostly in tenders for local government (councils selling). But most of the time I'm in front of the PC studying.
 
