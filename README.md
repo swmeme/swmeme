@@ -35,8 +35,9 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 
 
  
-### ⚡ Fun fact: I am a huge star wars fan and I like to follow F1 #GOFERRARI#
-<div class="tenor-gif-embed" data-postid="2277451596928561194" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/f1-shanghaif1-tororosso-gif-2277451596928561194">F1 Shanghaif1 GIF</a>from <a href="https://tenor.com/search/f1-gifs">F1 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, and when I'm not working, or studying, or with my fiancée I'm probably taking care of the garden or playing some video-game 🎮🕹️
+### ⚡ Fun fact: I am a huge star wars fan and I like to follow F1 #GOFERRARI!!!, and when I'm not working, or studying, or with my fiancée I'm probably taking care of the garden or playing some video-game 🎮🕹️
+
+<img src="https://tenor.com/pt-BR/view/car-speed-road-fast-f1-gif-15573642814782812617" alt="My Skills" width="50" height="50">
 
 
 #### 😄 Pronouns: He/him
