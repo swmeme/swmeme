@@ -1,7 +1,6 @@
-<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. <br> My name is Walter Piragine </h2> 
+<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. <br> <br>  My name is Walter Piragine </h2> 
 <p align="center">
-          
-##  
+
 ### I'm Brazilian (Fortaleza - CE) and a self-taught programmer.
 My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one in the old Nokia phones), after several attempts I gave up 😓😩🥵. 
 
