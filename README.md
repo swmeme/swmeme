@@ -32,7 +32,7 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 <h2 align="center">
 <div>
 <a href="https://github.com/swmeme">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&langs_count=7&theme=dracula"/> | <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <p align="center">
 #  
