@@ -27,7 +27,7 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 
  #   
 
-<a href="https://github.com/swmeme/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Walter's github stats" /></a> | <a href="https://github.com/swmeme/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/swmeme/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Walter's github stats" /></a> | <a height="150em" href="https://github.com/swmeme/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 <h2 align="center">
 <div>
