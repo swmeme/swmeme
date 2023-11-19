@@ -1,7 +1,7 @@
 # 🖖 Hello there, Welcome to my Github profile.
 
 ##              My name is Walter! <br> 
-####I'm a self-taught.
+#### I'm a self-taught.
 
 
 
