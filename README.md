@@ -7,7 +7,7 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 #   
 #### For now my GitHub repositories are only about summaries and study projects
 #   
-###  🔭 I’m currently working on: (most of the time) I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling). But my main interests are Algorithms and Data Science.
+###  🔭 I’m currently working on: (most of the time) I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling). My main interests in programming are Algorithms and Data Science.
 
 
 ##  🌱 I’m currently studying and the Tech I use: 
