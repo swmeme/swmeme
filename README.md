@@ -1,18 +1,18 @@
-#<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. </h2>
+<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. </h2>
 <p align="center">
 
-##              My name is [Walter Piragine](https://www.linkedin.com/in/walterpiragine/)! <br> 
-##### I'm Brazilian (Fortaleza - CE) and a self-taught programmer.
+##              My name is [Walter Piragine](https://www.linkedin.com/in/walterpiragine/)! <br>    
+### I'm Brazilian (Fortaleza - CE) and a self-taught programmer.
 
 
 
 ### - 🔭 I’m currently working on: Mounting and selling hardware, mostly in tenders for local government (councils selling). But most of the time I'm in front of the PC studying.
 
-### - 🌱 I’m currently studying:
+## - 🌱 I’m currently studying:
 <img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/8616/8616578.png" alt="My Skills" width="50" height="50"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-data-science-46-1170621.png" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/128/4025/4025644.png" alt="My Skills" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=py,django,git,html&theme=dark)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50">/>
           
 
-### - 🚀 I’m looking to learn in the future: 
+## - 🚀 I’m looking to learn in the future: 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,azure,docker,aws,kubernetes&theme=light)](https://skillicons.dev)
 
           
