@@ -1,8 +1,8 @@
-<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. <br>  My name is [!Walter Piragine](https://www.linkedin.com/in/walterpiragine/)! </h2> [Walter Piragine]
+<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. <br> </h2> My name is [!Walter Piragine](https://www.linkedin.com/in/walterpiragine/)! 
 <p align="center">
 
 ### I'm Brazilian (Fortaleza - CE) and a self-taught programmer.
-My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one in the old Nokia phones), after several attempts I gave up 😓😩🥵.
+My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one in the old Nokia phones), after several attempts I gave up 😓😩🥵. 
 
 
 ### - 🔭 I’m currently working on: Mounting and selling hardware, mostly in tenders for local government (councils selling). But most of the time I'm in front of the PC studying.
