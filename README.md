@@ -9,7 +9,8 @@
     Python and its libraries, Computer Science, Data Science and Algorithms;
 
 ### - 🚀 I’m looking to learn in the future: 
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="60" height="70" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50" height="60"/>
+          
 
  Machine Learning and DevOps culture (Docker, Kubernetes, etc); 
 
