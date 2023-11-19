@@ -10,27 +10,23 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 ###  🔭 I’m currently working on: (most of the time) I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling). But my main interests are Algorithms and Data Science.
 
 
-##  🌱 I’m currently studying and the Tech I use:
+##  🌱 I’m currently studying and the Tech I use: 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="My Skills" width="50" height="50"> <img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/8616/8616578.png" alt="My Skills" width="50" height="50"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-data-science-46-1170621.png" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/128/4025/4025644.png" alt="My Skills" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=py,html,django,git&theme=dark)](https://skillicons.dev) 
 
 ##  🚀 I’m looking to learn in the future: 
 <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/5181/5181965.png" alt="My Skills" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=tensorflow,azure,docker,aws,kubernetes&theme=dark)](https://skillicons.dev)
-
+#   
 ### 🤔 I'm looking for help with Data Science projects approach, and any tips on self-taught programming;
+#   
 ##  📫 How to reach me: <br>
-<div>
+<h2 align="center"> <div>
 <a href = "mailto:walter.jnior@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/walterpiragine/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
-- 😄 Pronouns: He/him
+<p align="center">
+ 
+### 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
 
-<!--
-**swmeme/swmeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-
--->
