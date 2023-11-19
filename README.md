@@ -1,7 +1,8 @@
-# 🖖 Hello there, Welcome to my Github profile.
+<h2 align="center"># 🖖 Hello there, Welcome to my Github profile. </h2>
+<p align="center">
 
 ##              My name is [Walter Piragine](https://www.linkedin.com/in/walterpiragine/)! <br> 
-#### I'm a self-taught programmer in .
+##### I'm Brazilian (Fortaleza - CE) and a self-taught programmer.
 
 
 
@@ -20,7 +21,7 @@
 
  Machine Learning and DevOps culture (Docker, Kubernetes, etc); 
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&theme=gotham" alt="swmeme" />
+
 
 <!--
 **swmeme/swmeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
