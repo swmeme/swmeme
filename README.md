@@ -38,7 +38,7 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 ### ⚡ Fun fact: I am a huge star wars fan and I like to follow F1 #GOFERRARI!!!, and when I'm not working, or studying, or with my fiancée I'm probably taking care of the garden or playing some video-game 🎮🕹️
 
 <h2 align="center">
-<img src="https://media.tenor.com/2CCxoJnxsckAAAAC/car-speed.gif" alt="Formulaone" width="50" height="50">
+<img src="https://media.tenor.com/2CCxoJnxsckAAAAC/car-speed.gif" alt="Formulaone" width="100" height="100">
 <p align="center">
 
 #### 😄 Pronouns: He/him
