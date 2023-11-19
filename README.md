@@ -3,11 +3,12 @@
  
           
 ### I'm Brazilian from Fortaleza - CE and a self-taught programmer. <br> <br> 
-My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one, in the old Nokia phones), after several attempts I gave up 😓😩🥵.<br> Then I remembered Master Yoda's  quote: <em>__"Do or do not, there is no try."__ </em> <br> I filled myself with desire and I really wanted to do it!!! So I sat down in front of the computer again and since then I have fallen more and more in love with logic, syntax, data structures, algorithms, and this whole universe that is programming.
+My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one, in the old Nokia phones), after several attempts I gave up 😓😩🥵.<br> <br> Then I remembered Master Yoda's  quote: <em>__"Do or do not, there is no try."__ </em> <br><br> I filled myself with desire and I really wanted to do it!!! So I sat down in front of the computer again and since then I have fallen more and more in love with logic, syntax, data structures, algorithms, and this whole universe that is programming.
 #   
 #### For now my GitHub repositories are only about summaries and study projects
 #   
-###  🔭 I’m currently working on: (most of the time) I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling). My main interests in programming are Algorithms and Data Science, so currently I'm studying "The Complete Data Science & Machine Learning Bootcamp" from AppBrewery and other courses on freecodecamp and codecademy
+###  🔭 I’m currently working on:
+(most of the time) I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling). My main interests in programming are Algorithms and Data Science, so currently I'm studying "The Complete Data Science & Machine Learning Bootcamp" from AppBrewery and other courses on freecodecamp and codecademy
 
 
 ##  🌱 What I’m currently studying and the Tech I use: 
