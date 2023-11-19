@@ -6,10 +6,11 @@
 ### - 🔭 I’m currently working on: Mounting and selling hardware, mostly in tenders for local government (councils selling). But most of the time I'm in the pc studying.
 
 ### - 🌱 I’m currently studying:
-[![My Skills](https://skillicons.dev/icons?i=py,django,aws,git,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,git&theme=light)](https://skillicons.dev)
 
 ### - 🚀 I’m looking to learn in the future: 
-tensorflow,azure,docker,kubernetes
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,azure,docker,aws,kubernetes&theme=light)](https://skillicons.dev)
+
           
           
 
