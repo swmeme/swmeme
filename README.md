@@ -1,12 +1,12 @@
-<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. <br> <br>  My name is Walter Piragine <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" > </h2> 
-<p align="center">
- 
-          
-### I'm Brazilian from Fortaleza - CE and a self-taught programmer. <br> <br> 
+<h2 align="center"> 🖖 Hello there, Welcome to my Github profile. <br> <br>  My name is Walter Piragine <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" > <br>
+
+ ### I'm Brazilian from Fortaleza - CE and a self-taught programmer. <br> <br> 
 My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one, in the old Nokia phones), after several attempts I gave up 😓😩🥵.<br> <br> Then I remembered Master Yoda's  quote: <em>__"Do or do not, there is no try."__ </em> <br><br> I filled myself with desire and I really wanted to do it!!! So I sat down in front of the computer again and since then I have fallen more and more in love with logic, syntax, data structures, algorithms, and this whole universe that is programming.
-#   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" >
+  
 #### For now my GitHub repositories are only about summaries and study projects
-#   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" >
+
 ###  🔭 I’m currently working on:
 (most of the time) I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling). My main interests in programming are Algorithms and Data Science, so currently I'm studying "The Complete Data Science & Machine Learning Bootcamp" from AppBrewery and other courses on freecodecamp and codecademy
 
@@ -21,9 +21,10 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" alt="My Skills" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/5181/5181965.png" alt="My Skills" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=tensorflow,azure,docker,aws,kubernetes&theme=dark)](https://skillicons.dev)
 #   
 ### 🤔 I'm looking for help with Data Science projects approach, and any tips on self-taught programming;
-#   
-##  📫 How to reach me: <br>
-<h2 align="center"> <div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" >
+<h2 align="center">
+ 📫 How to reach me: <br> <br>
+<div>
 <a href = "mailto:walter.jnior@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/walterpiragine/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
