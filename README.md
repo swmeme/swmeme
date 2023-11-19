@@ -2,14 +2,14 @@
 
 ##              My name is Walter!
 
-# - 🔭 I’m currently working on:
+### - 🔭 I’m currently working on:
     Mounting and selling hardware, mostly in tenders for local government (councils selling), ;
 
-# - 🌱 I’m currently learning:
+### - 🌱 I’m currently learning:
     Python and its libraries, Computer Science, Data Science and Algorithms;
 
-# - 🚀 I’m looking to learn in the future: 
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40" />
+### - 🚀 I’m looking to learn in the future: 
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="60" height="70" />
 
  Machine Learning and DevOps culture (Docker, Kubernetes, etc); 
 
