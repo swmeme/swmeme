@@ -27,12 +27,12 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 
  #   
 
-<a href="https://github.com/swmeme/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Walter's github stats" /></a> | <a height="180em" href="https://github.com/swmeme/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/swmeme/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Walter's github stats" /></a> | <a href="https://github.com/swmeme/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&theme=github_dark&hide_border=true" /></a> 
 
 <h2 align="center">
 <div>
 <a href="https://github.com/swmeme">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&langs_count=7&theme=dracula"/> | <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&langs_count=7&theme=dracula&hide_border=true"/> | <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 <p align="center">
 #  
