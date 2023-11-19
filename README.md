@@ -24,14 +24,8 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 <a href="https://www.linkedin.com/in/walterpiragine/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
 <p align="center">
-<div>
-<a href="https://github.com/swmeme">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<h2 align="center">
 
-<p align="center">
+ 
 ### ⚡ Fun fact: I am a huge star wars fan and I like to follow F1 #GOFERRARI#, and when I'm not working, or studying, or with my fiancée I'm probably taking care of the garden or playing some video-game 🎮🕹️
 #### 😄 Pronouns: He/him
 
