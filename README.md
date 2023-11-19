@@ -6,7 +6,7 @@
 My journey with programming began in the mid-2020, exactly in the middle of the pandemic 😷. <br>I wanted to make a snake game (yes that one, in the old Nokia phones), after several attempts I gave up 😓😩🥵.<br> Then I remembered Master Yoda's  quote: "Do or do not, there is no try." <br> I filled myself with desire and I really wanted to do it!!! So I sat down in front of the computer again and since then I have fallen more and more in love with logic, syntax, data structures, algorithms, and this whole universe that is programming.
 #   
 #### For now my GitHub repositories are only about summaries and study projects
-<br>
+#   
 ###  🔭 I’m currently working on: Most of the time I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling).
 
 
