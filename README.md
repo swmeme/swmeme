@@ -1,9 +1,9 @@
 # 🖖 Hello there, Welcome to my Github profile.
 
-##              My name is Walter!
+##              My name is Walter!// asdfasdfasdfasdf
 
 
-### - 🔭 I’m currently working on: #### Mounting and selling hardware, mostly in tenders for local government (councils selling). But most of the time I'm in the pc studying.
+### - 🔭 I’m currently working on: Mounting and selling hardware, mostly in tenders for local government (councils selling). But most of the time I'm in the pc studying.
 
 ### - 🌱 I’m currently studying:
 [![My Skills](https://skillicons.dev/icons?i=py,django,aws,git,&theme=light)](https://skillicons.dev)
