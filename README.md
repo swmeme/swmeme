@@ -24,19 +24,21 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 <a href="https://www.linkedin.com/in/walterpiragine/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
 <p align="center">
-
-
-
- 
-### ⚡ Fun fact: I am a huge star wars fan and I like to follow F1 #GOFERRARI#, and when I'm not working, or studying, or with my fiancée I'm probably taking care of the garden or playing some video-game 🎮🕹️
-
+#  
 <h2 align="center">
 <div>
 <a href="https://github.com/swmeme">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swmeme&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=swmeme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <p align="center">
+#  
+
+
  
+### ⚡ Fun fact: I am a huge star wars fan and I like to follow F1 #GOFERRARI#
+<div class="tenor-gif-embed" data-postid="2277451596928561194" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/f1-shanghaif1-tororosso-gif-2277451596928561194">F1 Shanghaif1 GIF</a>from <a href="https://tenor.com/search/f1-gifs">F1 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, and when I'm not working, or studying, or with my fiancée I'm probably taking care of the garden or playing some video-game 🎮🕹️
+
+
 #### 😄 Pronouns: He/him
 
 
