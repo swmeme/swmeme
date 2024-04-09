@@ -8,7 +8,7 @@ My journey with programming began in the mid-2020, exactly in the middle of the 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" >
 
 ###  🔭 I’m currently working on:
-(most of the time) I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling). My main interests in programming are Algorithms and Data Science, so currently I'm studying "The Complete Data Science & Machine Learning Bootcamp" from AppBrewery and other courses on freecodecamp and codecademy
+(most of the time) I'm in front of the PC studying. But I also assemble and sell hardware (PC's) in tenders for local government (councils selling). My main interests in programming are Algorithms, Cyber Security and Data Science, so currently I'm studying "The Complete Data Science & Machine Learning Bootcamp" from AppBrewery and other courses on freecodecamp and codecademy
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" >
 
