@@ -2,6 +2,8 @@
 
  ### I'm Brazilian and a self-taught programmer. <br> <br> 
 My journey with programming began in the mid-2020, exactly at the beginning of the pandemic 😷. <br>I wanted to make a snake game (yes that one, in the old Nokia phones), after several attempts I gave up 😓😩🥵.<br> <br> Then I remembered Master Yoda's quote: <em>__"Do or do not, there is no try."__ </em> <br><br> I filled myself with desire and I really wanted to do it!!! So I sat down in front of the computer again and since then I have fallen more and more in love with logic, syntax, data structures, algorithms, and this whole universe that is programming.
+
+Didn't get the snake app but made a robot for stock market haha!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" >
   
 #### For now my GitHub repositories are only about summaries and study projects
